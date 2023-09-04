@@ -1,0 +1,8 @@
+.grid {
+    margin: 100px 0 0;
+    text-align: center
+  }
+.dijkstraButton {
+  text-align: center;
+  display: flex;
+}
